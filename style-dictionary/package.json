@@ -1,0 +1,19 @@
+{
+  "name": "style-directory-example",
+  "version": "1.0.0",
+  "description": "Example usage of zeroheight links to feed Style Dictionary",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^4.0.1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
